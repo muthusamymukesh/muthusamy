@@ -1,15 +1,15 @@
 #include<stdio.h>
 void main()
 {
-int a;
-printf("enter the value a");
-scanf("%d",&a);
-if(a%2==0)
+int a[6]=[a,e,i,o,u],b;
+printf("enter the value b");
+scanf("%d",&b);
+if(a==b)
 {
-printf("even");
+printf("vowel");
 }
 else
 {
-printf("odd");
+printf("consonant");
 }
 }
