@@ -2,10 +2,10 @@
 void main()
 {
 int a[6],b;
-a[1]='a',a[2]='e',a[3]='i',a[4]='o',a[5]='u';
+a[6]=='a',a[6]=='e',a[6]=='i',a[6]=='o',a[6]=='u';
 printf("enter the value b");
 scanf("%c",&b);
-if(a==b)
+if(a[6]==b)
 {
 printf("vowel");
 }
