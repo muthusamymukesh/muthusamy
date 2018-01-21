@@ -3,9 +3,9 @@ void main()
 {
 char a[6],b[6];
 a[6]=='a',a[6]=='e',a[6]=='i',a[6]=='o',a[6]=='u';
-printf("enter the value b");
+printf("enter the value b[6]");
 scanf("%c",&b[6]);
-if(a[6]==b)
+if(a[6]==b[6])
 {
 printf("vowel");
 }
