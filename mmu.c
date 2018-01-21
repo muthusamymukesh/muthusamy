@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-char a[6],b[6];
-a[6]=='a',a[6]=='e',a[6]=='i',a[6]=='o',a[6]=='u';
-printf("enter the value b[6]");
-scanf("%c",&b[6]);
-if(a[6]==b[6])
+char a[24],b[6];
+a[24]=='a',a[24]=='b',a[24]=='c',a[24]=='o',a[24]=='u';
+printf("enter the value b");
+scanf("%c",&b);
+if(a[24]==b[6])
 {
 printf("vowel");
 }
